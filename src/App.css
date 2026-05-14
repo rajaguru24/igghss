@@ -1,0 +1,94 @@
+.list {
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    gap: 2.5rem;
+    justify-content: center;
+    background-color: darkgoldenrod;
+    color: saddlebrown;
+    font-size:x-large;
+    padding: 20px;
+}
+.title{
+    background-color:cornflowerblue;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: xx-large;
+     color:aliceblue;
+     padding:20px;
+}
+p{
+    background-color:lightseagreen;
+    font-size: xx-large;
+    text-align: center;
+    padding:22px;
+
+}
+
+h1{
+    text-align: center;
+    font-size:xx-large;
+    background-color:darkorchid;
+    color:white;
+}
+.container {
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding :4px;
+}
+.p2{
+font-size:larger;
+font-style: oblique;
+font-family: 'Times New Roman', Times, serif;
+}
+.contact{
+    background-color: blanchedalmond;
+}
+
+.text1{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.text2{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+
+}    
+.page {
+  padding: 40px;
+  background: white;
+  margin: 20px;
+  border-radius: 8px;
+}
+.mission{
+      background-color:yellowgreen;
+      padding: 10px;
+      border-radius: 5px;
+      width:500px;
+      margin-left: 400px;
+      font-size: x-large;
+
+    }   
+.vision{
+      background-color:lightcoral;
+      padding: 10px;
+      border-radius: 5px;
+      width:500px;
+      margin-left: 400px;
+      font-size: x-large;
+}
+h2{
+    text-align: center;
+    font-size:xx-large;
+    background-color:maroon;
+    color:white;
+    padding: 6px;
+}
+.image9{
+    margin-left: auto;
+    width: 300px;
+    
+}
