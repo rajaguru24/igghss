@@ -3,7 +3,7 @@ function Circular() {
     <div className="list">
       <h1>School Circulars</h1>
       <ul>
-        <li>School reopening on June 1st 2026</li>
+        <li>School will reopen on June 1st 2026</li>
         <li>Admission is going for VI to IX std</li>
         <li>Uniform and stitching charges will be given to the stutdents after school reopening
            </li>
