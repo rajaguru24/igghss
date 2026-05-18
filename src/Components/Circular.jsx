@@ -4,8 +4,9 @@ function Circular() {
       <h1>School Circulars</h1>
       <ul>
         <li>School reopening on June 1st 2026</li>
-        <li>Exam Schedule Released</li>
-        <li>PTA Meeting will be announced soon</li>
+        <li>Admission is going for VI to IX std</li>
+        <li>Uniform and stitching charges will be given to the stutdents after school reopening
+           </li>
       </ul>
     </div>
   );
