@@ -5,7 +5,7 @@ function Circular() {
       <ul>
         <li>School will reopen on June 1st 2026</li>
         <li>Admission is going for VI to IX std</li>
-        <li>Uniform and stitching charges will be given to the stutdents after school reopening
+        <li>Uniform and stitching charges will be given to the students after school reopening
            </li>
       </ul>
     </div>
