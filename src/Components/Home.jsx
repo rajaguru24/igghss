@@ -7,7 +7,7 @@ function Home() {
   return (
     <>
     <div>
-      <h2>Welcome to Indira gandhi govt hr sec school </h2>
+      <h2>Welcome to Indira Gandhi Govt Hr Sec School </h2>
       <p>Empowering students for a brighter future.</p>
       <img src={image9} alt="School Building"/>
     </div>
